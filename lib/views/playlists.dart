@@ -1,11 +1,11 @@
 import 'dart:async';
 import 'dart:math';
-
 import 'package:flute_music_player/flute_music_player.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:musicplayer/database/database_client.dart';
 import 'package:musicplayer/pages/list_songs.dart';
+
 
 class Playlist extends StatefulWidget {
   final DatabaseClient db;
