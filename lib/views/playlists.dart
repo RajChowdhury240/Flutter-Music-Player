@@ -11,6 +11,7 @@ class Playlist extends StatefulWidget {
   final DatabaseClient db;
   Playlist(this.db);
 
+  
   @override
   State<StatefulWidget> createState() {
     return new _StatePlaylist();
