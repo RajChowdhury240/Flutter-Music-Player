@@ -15,3 +15,4 @@ A Material designed music player developed in Flutter
 Music player plugin used : <a href="https://github.com/iampawan/Flute-Music-Player">Flute-music</a>
 
 
+
