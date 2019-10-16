@@ -39,6 +39,8 @@ class _StateArtist extends State<Artists> {
         : new File.fromUri(Uri.parse(song.albumArt));
   }
 
+  // Coded By Raj Chowdhury
+  
   List<Card> _buildGridCards(BuildContext context) {
     return songs.map((song) {
       return Card(
