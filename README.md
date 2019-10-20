@@ -13,6 +13,3 @@ A Material designed music player developed in Flutter
 
 # Plugins
 Music player plugin used : <a href="https://github.com/iampawan/Flute-Music-Player">Flute-music</a>
-
-
-
