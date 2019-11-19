@@ -137,6 +137,7 @@ class _GetArtistDetailState extends State<GetArtistDetail> {
         : Container(height: 0.0,width: 0.0,);
   }
 
+  
   @override
   void dispose() {
     super.dispose();
