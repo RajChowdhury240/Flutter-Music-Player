@@ -7,3 +7,4 @@ class MyQueue {
   static int index;
   static MusicFinder player=new MusicFinder();
 }
+
