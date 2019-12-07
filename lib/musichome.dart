@@ -32,7 +32,7 @@ class BodySelection extends StatelessWidget {
       case 4:
         return Playlist(db);
       default:
-        return Text("Error");
+        return Text("Error !! Not Found !");
     }
   }
 
