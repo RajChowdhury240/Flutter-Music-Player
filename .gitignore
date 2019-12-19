@@ -5,5 +5,5 @@
 .pub/
 
 build/
-
+.dart
 .flutter-plugins
